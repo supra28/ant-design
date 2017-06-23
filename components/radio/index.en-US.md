@@ -32,3 +32,4 @@ radio group，wrap a group of `Radio`。
 | defaultValue   | Default selected value                     | any            | none     | none     |
 | size           | Size, only on radio style           | string            | `large` `default` `small` | `default` |
 | options        | set children optional               | string[] \| Array<{ label: string value: string disabled?: boolean }>            | 无     | 无     |
+| disabled | Disable all Radio Buttons | boolean | none | none|
